@@ -1,6 +1,7 @@
 # grunt-tusk-chrome-extension-template
 
-A grunt template for the development of Chrome Extensions
+A grunt template for the development of Chrome Extensions using jade, coffeescript and yaml.
+Contains the standard [Example](http://developer.chrome.com/extensions/getstarted.html).
 
 ## Usage
 
